@@ -32,7 +32,7 @@
                VerticalOptions="Center" />
         <BoxView Grid.Row="1"
                  Grid.Column="1"
-                 Color="Purple" 
+                 Color="Purple" />
         <Label Grid.Row="1"
                Grid.Column="1"
                Text="Row1, Column 1"
