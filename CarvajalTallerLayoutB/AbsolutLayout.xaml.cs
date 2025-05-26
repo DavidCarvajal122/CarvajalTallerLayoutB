@@ -1,14 +1,14 @@
 namespace CarvajalTallerLayoutB;
 
-public partial class Flex : ContentPage
+public partial class AbsolutLayout : ContentPage
 {
-	public Flex()
+	public AbsolutLayout()
 	{
 		InitializeComponent();
 	}
 
     private void Button_Clicked(object sender, EventArgs e)
     {
-        Navigation.PushAsync(new AbsolutLayout());
+        Navigation.PushAsync(new GridLayout());
     }
 }

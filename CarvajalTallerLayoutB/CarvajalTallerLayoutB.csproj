@@ -72,6 +72,9 @@
 	</ItemGroup>
 
 	<ItemGroup>
+	  <MauiXaml Update="AbsolutLayout.xaml">
+	    <Generator>MSBuild:Compile</Generator>
+	  </MauiXaml>
 	  <MauiXaml Update="Flex.xaml">
 	    <Generator>MSBuild:Compile</Generator>
 	  </MauiXaml>

@@ -40,11 +40,6 @@
                 Text="IrAGridLayout"
                 Clicked="IrAGridLayout_Clicked"
                 />
-            <Button 
-            x:Name="IrAStack"
-            Text="IrAStack"
-            Clicked="IrAStack_Clicked"
-                />
         </VerticalStackLayout>
     </ScrollView>
 

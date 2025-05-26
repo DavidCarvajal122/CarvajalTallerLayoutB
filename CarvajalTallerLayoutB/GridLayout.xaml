@@ -38,6 +38,14 @@
                Text="Row1, Column 1"
                HorizontalOptions="Center"
                VerticalOptions="Center" />
+        <Button Grid.Row="1"
+                Grid.Column="1"
+                Text="Ir a StackLayout"
+                TextColor="Black"
+                BackgroundColor="White"
+                HorizontalOptions="Center"
+                VerticalOptions="Center"
+                Clicked = "Button_Clicked" />
     </Grid>
     
 
